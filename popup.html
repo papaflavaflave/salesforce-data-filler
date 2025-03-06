@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Test Data Filler</title>
+  <link rel="stylesheet" href="css/salesforce-lightning-design-system.css">
+  <style>
+    body {
+      font-family: 'Salesforce Sans', Arial, sans-serif;
+      margin: 1rem;
+      width: 300px;
+    }
+    .slds-button {
+      margin-top: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="slds-card">
+    <header class="slds-card__header slds-grid">
+      <div class="slds-media slds-media_center slds-has-flexi-truncate">
+        <div class="slds-media__body">
+          <h2 class="slds-text-heading_small">TV Show Character Filler</h2>
+        </div>
+      </div>
+    </header>
+    <div class="slds-card__body slds-card__body_inner">
+      <div class="slds-form-element">
+        <label class="slds-form-element__label" for="tvShow">Select a TV Show:</label>
+        <div class="slds-form-element__control">
+          <div class="slds-select_container">
+            <select class="slds-select" id="tvShow">
+              <option value="" disabled selected>Choose a TV Show</option>
+            </select>
+          </div>
+        </div>
+      </div>
+
+      <div class="slds-form-element" style="margin-top: 1rem;">
+        <label class="slds-form-element__label" for="character">Select a Character:</label>
+        <div class="slds-form-element__control">
+          <div class="slds-select_container">
+            <select class="slds-select" id="character" disabled>
+              <option value="" disabled selected>Choose a Character</option>
+            </select>
+          </div>
+        </div>
+      </div>
+
+      <button class="slds-button slds-button_brand" id="populate" disabled>Populate Contact</button>
+    </div>
+  </div>
+</body>
+<script src="popup.js"></script>
+</html>

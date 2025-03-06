@@ -1,0 +1,37 @@
+{
+    "The Office": [
+      { "FirstName": "Michael", "LastName": "Scott", "Email": "michael.scott@dundermifflin.com", "Phone": "555-111-2222" },
+      { "FirstName": "Dwight", "LastName": "Schrute", "Email": "dwight.schrute@dundermifflin.com", "Phone": "555-333-4444" },
+      { "FirstName": "Jim", "LastName": "Halpert", "Email": "jim.halpert@dundermifflin.com", "Phone": "555-444-5555" },
+      { "FirstName": "Pam", "LastName": "Beesly", "Email": "pam.beesly@dundermifflin.com", "Phone": "555-666-7777" },
+      { "FirstName": "Stanley", "LastName": "Hudson", "Email": "stanley.hudson@dundermifflin.com", "Phone": "555-888-9999" }
+    ],
+    "Seinfeld": [
+      { "FirstName": "Jerry", "LastName": "Seinfeld", "Email": "jerry.seinfeld@example.com", "Phone": "555-000-1234" },
+      { "FirstName": "George", "LastName": "Costanza", "Email": "george.costanza@example.com", "Phone": "555-000-5678" },
+      { "FirstName": "Elaine", "LastName": "Benes", "Email": "elaine.benes@example.com", "Phone": "555-000-6789" },
+      { "FirstName": "Cosmo", "LastName": "Kramer", "Email": "cosmo.kramer@example.com", "Phone": "555-000-7890" },
+      { "FirstName": "Newman", "LastName": "", "Email": "newman@example.com", "Phone": "555-111-2223" }
+    ],
+    "Community": [
+      { "FirstName": "Jeff", "LastName": "Winger", "Email": "jeff.winger@greendale.edu", "Phone": "555-123-4567" },
+      { "FirstName": "Britta", "LastName": "Perry", "Email": "britta.perry@greendale.edu", "Phone": "555-234-5678" },
+      { "FirstName": "Abed", "LastName": "Nadir", "Email": "abed.nadir@greendale.edu", "Phone": "555-345-6789" },
+      { "FirstName": "Troy", "LastName": "Barnes", "Email": "troy.barnes@greendale.edu", "Phone": "555-456-7890" },
+      { "FirstName": "Shirley", "LastName": "Bennett", "Email": "shirley.bennett@greendale.edu", "Phone": "555-567-8901" }
+    ],
+    "Schitts Creek": [
+      { "FirstName": "Johnny", "LastName": "Rose", "Email": "johnny.rose@schittscreek.com", "Phone": "555-678-9012" },
+      { "FirstName": "Moira", "LastName": "Rose", "Email": "moira.rose@schittscreek.com", "Phone": "555-789-0123" },
+      { "FirstName": "David", "LastName": "Rose", "Email": "david.rose@schittscreek.com", "Phone": "555-890-1234" },
+      { "FirstName": "Alexis", "LastName": "Rose", "Email": "alexis.rose@schittscreek.com", "Phone": "555-901-2345" },
+      { "FirstName": "Roland", "LastName": "Schitt", "Email": "roland.schitt@schittscreek.com", "Phone": "555-012-3456" }
+    ],
+    "Parks and Recreation": [
+      { "FirstName": "Leslie", "LastName": "Knope", "Email": "leslie.knope@pawnee.gov", "Phone": "555-123-5678" },
+      { "FirstName": "Ron", "LastName": "Swanson", "Email": "ron.swanson@pawnee.gov", "Phone": "555-234-6789" },
+      { "FirstName": "Tom", "LastName": "Haverford", "Email": "tom.haverford@pawnee.gov", "Phone": "555-345-7890" },
+      { "FirstName": "April", "LastName": "Ludgate", "Email": "april.ludgate@pawnee.gov", "Phone": "555-456-8901" },
+      { "FirstName": "Andy", "LastName": "Dwyer", "Email": "andy.dwyer@pawnee.gov", "Phone": "555-567-9012" }
+    ]
+  }
